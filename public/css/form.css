@@ -1,0 +1,36 @@
+form h1 span{
+    color: #F6830F;
+}
+body{
+    background-color: #F5F6F8;
+}
+.input-div{
+    background-color: #ffffff;
+    padding: 1.5rem;
+    width: 100%;
+    max-width: 530px;
+    
+}
+.form-img img{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    max-width: 530px;
+}
+.form__header{
+    margin-top: 120px;
+    margin-bottom: 48px;
+}
+.forgot-password {
+   
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 25px;
+}
+.sign-in{
+    margin-bottom: 25px;
+    width: 100%;
+}
+.color-grey{
+    color: #AAAAAA;
+}

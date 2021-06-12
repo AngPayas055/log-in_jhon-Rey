@@ -1,2 +1,2 @@
-git cloned the boilerplate from khasmir,
-but i made the codes, 
+Static Login Page </br>
+Using Html and Css
